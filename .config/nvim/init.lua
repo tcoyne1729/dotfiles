@@ -1247,6 +1247,7 @@ require('lazy').setup({
   -- require 'kickstart.plugins.neo-tree',
   require 'custom.plugins.snacks',
   require 'custom.plugins.typescript',
+  require 'custom.plugins.uvtools',
   require 'kickstart.plugins.flash',
   -- require 'kickstart.plugins.gitsigns', -- adds gitsigns recommend keymaps
 
