@@ -1248,6 +1248,7 @@ require('lazy').setup({
   require 'custom.plugins.snacks',
   require 'custom.plugins.typescript',
   require 'custom.plugins.uvtools',
+  require 'custom.plugins.repltools',
   require 'kickstart.plugins.flash',
   -- require 'kickstart.plugins.gitsigns', -- adds gitsigns recommend keymaps
 
